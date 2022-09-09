@@ -32,7 +32,7 @@ namespace department
         switch (dept)
         {
             case 1:
-                Console.Write("The Addition of  {0} and {1} is: {2}\n", emp1id, emp2id, emp1id + emp2id);
+                Console.Write("Add the data from dept");
                 break;
 
             case 2:
